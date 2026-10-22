@@ -20,6 +20,6 @@
   <sub>
     🎨 building <b>GotTheme</b> for VS Code &nbsp;·&nbsp;
     🤖 <b>nestjs-grammy</b> &nbsp;·&nbsp;
-    🍎 macOS dev tools
+    🍎 <a href="https://github.com/dongaber/peppap"><b>Peppap</b></a> — dev status in the MacBook notch
   </sub>
 </p>
