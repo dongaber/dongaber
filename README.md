@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=dongaber&show_icons=true&hide_title=true&hide_rank=false&hide=issues,contribs&include_all_commits=true&count_private=true&bg_color=1B1E2B&text_color=A6ACCD&icon_color=C792EA&ring_color=C792EA&border_color=2B2F40&border_radius=8" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongaber&layout=compact&hide_title=true&langs_count=6&bg_color=1B1E2B&text_color=A6ACCD&border_color=2B2F40&border_radius=8" />
+  <img height="140" src="./profile/stats.svg" />
+  <img height="140" src="./profile/top-langs.svg" />
 </p>
 
 <p align="center">
