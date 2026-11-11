@@ -1,8 +1,8 @@
 
       <svg
         width="300"
-        height="110"
-        viewBox="0 0 300 110"
+        height="85"
+        viewBox="0 0 300 85"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -124,29 +124,9 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="245.3"
+          width="250"
           height="8"
           fill="#F05138"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="245.3"
-          y="0"
-          width="14.030000000000001"
-          height="8"
-          fill="#89e051"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="249.33"
-          y="0"
-          width="10.67"
-          height="8"
-          fill="#701516"
         />
       
       
@@ -155,21 +135,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#F05138" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Swift 98.12%
-      </text>
-    </g>
-  </g><g transform="translate(0, 25)">
-    <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#89e051" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shell 1.61%
-      </text>
-    </g>
-  </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
-    <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#701516" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Ruby 0.27%
+        Swift 100.00%
       </text>
     </g>
   </g></g>
